@@ -5,6 +5,9 @@
     An open-source multi-vendor e-commerce platform built with Next.js and Tailwind CSS.
   </p>
   <p>
+    <strong><a href="https://click-cart-m1bo.vercel.app/">🔴 Live Demo</a></strong>
+  </p>
+  <p>
     <a href="https://github.com/GreatStackDev/ClickCart/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/GreatStackDev/ClickCart?style=for-the-badge" alt="License"></a>
     <a href="https://github.com/GreatStackDev/ClickCart/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"></a>
     <a href="https://github.com/GreatStackDev/ClickCart/issues"><img src="https://img.shields.io/github/issues/GreatStackDev/ClickCart?style=for-the-badge" alt="GitHub issues"></a>
